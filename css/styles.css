@@ -1,0 +1,48 @@
+ /* .column {
+    width: 33.33%;
+    padding: 10px;
+    height: 300px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}  */
+/* .leveling{
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+  float:left;
+}
+.proofing{
+  float:right;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+.coating{
+  float:left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+.caulk{
+  float:right;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+.sprays{
+  float:left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+body{
+background-image: url("https://www.nelive.in/sites/default/files/articles/Construction-Site7.jpg");
+background-size: cover;
+}
+.container2{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFkmHobz3v_kQbDhhBytEpwILdQfZb0hiNKYdf5kOi_Lxzvfiig")
+  background-size: cover;
+} */
