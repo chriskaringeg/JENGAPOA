@@ -49,3 +49,10 @@ background-size: cover;
 .offer{
   color: white;
 }
+.quality{
+  color: red;
+  font-size: 2em;
+}
+li{
+  font-size: 2em;
+}
