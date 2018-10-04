@@ -46,6 +46,9 @@
 #process{
   padding-top: 15px;
 }
+.panel-footer a{
+  color: white;
+}
 
 #myInput {
     background-image: url('/css/searchicon.png');
